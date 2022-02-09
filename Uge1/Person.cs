@@ -1,4 +1,4 @@
-namespace A1 {
+namespace Uge1 {
     public class Person {
         
         private string name;
